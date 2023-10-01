@@ -1,1 +1,1 @@
-# vanilla_web_project
+JavaScript Drag & Drop Sortable List Project
